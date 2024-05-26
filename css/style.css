@@ -382,7 +382,7 @@ p {
     -webkit-box-shadow: 0 0 7px rgba(46, 59, 125, 0.23);
     box-shadow: 0 0 7px rgba(46, 59, 125, 0.23);
     border-radius: 50%;
-    background: #a90000;
+    background: #49c100;
     -webkit-box-shadow: 0 31px 35px rgba(0, 0, 0, .1);
     box-shadow: 0 31px 35px rgba(0, 0, 0, .1);
 }
@@ -439,7 +439,7 @@ p {
 }
 
 .bor {
-    background: #a90000;
+    background: #49c100;
     padding: 10px 25px !important;
     position: relative;
     border-radius: 3px;
@@ -509,7 +509,7 @@ p {
 }
 
 .nav-bg {
-    background: #a90000 !important;
+    background: #49c100 !important;
     padding: 25px 0;
     -webkit-box-shadow: 0 31px 35px rgba(0, 0, 0, .1);
     box-shadow: 0 31px 35px rgba(0, 0, 0, .1);
@@ -587,7 +587,7 @@ p {
 .banner-txt h3 {
     font-size: 46px;
     font-family: pb;
-    color: #000;
+    color: #fff;
     line-height: 55px;
     padding-bottom: 23px;
     padding-top: 16px;
@@ -595,7 +595,7 @@ p {
 .banner-txt h2{
     font-size: 38px;
     font-family: pb;
-    color: #000;
+    color: #fff;
     line-height: 55px;
     padding-bottom: 23px;
     padding-top: 16px;
@@ -603,7 +603,7 @@ p {
 .banner-txt h1{
     font-size: 38px;
     font-family: pb;
-    color: #000;
+    color: #fff;
     line-height: 55px;
     padding-bottom: 23px;
     padding-top: 16px;
@@ -614,7 +614,7 @@ p {
 
 .banner-txt p {
     font-size: 17px;
-    color: #787878;
+    color: #fff;
     padding-right: 40px;
     line-height: 26px;
     padding-bottom: 45px;
@@ -626,7 +626,7 @@ p {
 
 .banner-txt a {
     padding: 14px 20px;
-    background: #a90000;
+    background: #49c100;
     color: black;
     font-family: pb;
     font-size: 18px;
@@ -699,7 +699,7 @@ p {
 }
 
 .over-item {
-    background: #a90000;
+    background: #49c100;
     -webkit-box-shadow: 0 31px 35px rgba(0, 0, 0, .1);
     box-shadow: 0 31px 35px rgba(0, 0, 0, .1);
     padding: 35px 31px;
@@ -935,7 +935,7 @@ over-btn a i {
     left: -65px;
     width: 120px;
     height: 120px;
-    border: 25px solid #a90000;
+    border: 25px solid #49c100;
     z-index: -1;
     border-radius: 50%;
 }
@@ -947,7 +947,7 @@ over-btn a i {
     right: -55px;
     width: 120px;
     height: 120px;
-    border: 25px solid #a90000;
+    border: 25px solid #49c100;
     z-index: -1;
     -webkit-transform: rotate(35deg);
     -ms-transform: rotate(35deg);
@@ -961,7 +961,7 @@ over-btn a i {
     left: -65px;
     width: 120px;
     height: 120px;
-    border: 25px solid #a90000;
+    border: 25px solid #49c100;
     z-index: -1;
     border-radius: 50%;
 }
@@ -1373,7 +1373,7 @@ over-btn a i {
     padding: 14px 20px;
     font-family: pb;
     font-size: 16px;
-    color: #a90000;
+    color: #49c100;
     background: white;
     text-align: center;
     border-radius: 50px;
@@ -1411,7 +1411,7 @@ over-btn a i {
     right: -280px;
     width: 800px;
     height: 800px;
-    border: 80px solid #a90000;
+    border: 80px solid #49c100;
     border-radius: 50%;
     z-index: -1;
     -webkit-box-shadow: 0 25px 60px rgba(0, 0, 0, .67), inset 0 25px 60px rgba(0, 0, 0, .67);
@@ -1566,7 +1566,7 @@ textarea:-ms-input-placeholder {
 }
 
 .card-body {
-    background: #a90000;
+    background: #49c100;
     color: #ccc;
     padding: 26px 40px;
     line-height: 28px;
@@ -1841,7 +1841,7 @@ textarea::placeholder {
 =============================*/
 
 #footer-btm {
-    background: #a90000;
+    background: #49c100;
     border-top: 2px dashed #222;
     padding: 25px 0;
 }

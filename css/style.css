@@ -200,19 +200,19 @@ p {
     margin-top: -200px;
     margin-left: -200px;
     border-radius: 2px;
-    background: #68984c;
+    background: url(/images/0.png);
     color: #fff;
 }
 
-.center {
+/* .center {
     position: absolute;
     width: 220px;
     height: 220px;
     top: 90px;
-    background: url(/images/logo.png);
+    background: url(/images/0.png);
 
     left: 90px;
-}
+} */
 
 .dot-1 {
     position: absolute;

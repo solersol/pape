@@ -209,6 +209,8 @@ p {
     width: 220px;
     height: 220px;
     top: 90px;
+    background: url(/images/logo.png);
+
     left: 90px;
 }
 
